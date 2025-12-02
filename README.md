@@ -130,7 +130,6 @@ The compiled files will be located in the `build/<platform>` folder.
 
 # Use
 ## Create an account using the 'Crear cuenta' button. 
-![Login](docs/images/login.png)
 
 ## Fill in the fields.  
 ![Signup](docs/images/signup.png)
